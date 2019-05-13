@@ -42,7 +42,7 @@ body {
   <a href="#">Assigment</a>
   <a href="#">Notices</a>
   <a href="#">Admin Profile</a>
-  <a href="#about">Digital Library</a>
+  <a href="../enrolment/addenrol.php">Enrolment Key</a>
 
 
 

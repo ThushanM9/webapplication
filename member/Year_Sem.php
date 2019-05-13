@@ -39,32 +39,31 @@ body {
 
 <div class="topnav">
     <a href="index.php">Home</a>
-     <a href="#userprofile">User Profile</a>
-  <a class="active" href="courses.php">Courses</a>
+    <a class="active" href="Year_Sem.phpear_">Courses</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
 
 
     <h1 style=" margin-left:2cm;">Year 01</h1>
-    <h2><a href="courses.php" style=" margin-left:5cm;">Semester 01</a></h2>
-    <h2><a href="course.php" style=" margin-left:5cm;">Semester 02</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style=" margin-left:5cm;">Semester 01</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style=" margin-left:5cm;">Semester 02</a></h2>
 
 
 <h1 style=" margin-left:2cm;">Year 02</h1>
-    <h2><a href="course.php" style="margin-left:5cm;">Semester 01</a></h2>
-    <h2><a href="course.php" style="margin-left:5cm;">Semester 02</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style="margin-left:5cm;">Semester 01</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style="margin-left:5cm;">Semester 02</a></h2>
 
 
 <h1 style=" margin-left:2cm;">Year 03</h1>
-    <h2><a href="addcourse.php" style="margin-left:5cm;">Semester 01</a></h2>
-    <h2><a href="addcourse.php" style="margin-left:5cm;">Semester 02</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style="margin-left:5cm;">Semester 01</a></h2>
+    <h2><a href="../enrolment/semester_course.php" style="margin-left:5cm;">Semester 02</a></h2>
 
 
 
 <h1 style=" margin-left:2cm;">Year 04</h1>
-    <h2><a href="addcourse.php" style="margin-left:5cm;">Semester 01</a></h2>
-    <h2><a href="addcourse.php" style="margin-left:5cm;">Semester 02</a></h2>
+    <h2><a href="../enrolment/semester_course.php.php" style="margin-left:5cm;">Semester 01</a></h2>
+    <h2><a href="../enrolment/semester_course.php.php" style="margin-left:5cm;">Semester 02</a></h2>
 
               
 </body>
