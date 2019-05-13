@@ -47,7 +47,7 @@ body {
 <div class="topnav">
     <a class="active" href="index.php">Home</a>
   <a href="#userprofile">User Profile</a>
-  <a href="#hp">Courses</a>
+  <a href="Year_Sem.php">Courses</a>
   <a href="#about">About</a>
 
 
