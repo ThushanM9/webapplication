@@ -41,8 +41,8 @@ body {
   <a href="coursesPage.php">Courses</a>
   <a href="#">Assigment</a>
   <a href="#">Notices</a>
-  <a href="#">Admin Profile</a>
-  <a href="../enrolment/addenrol.php">Enrolment Key</a>
+  <a href="../userprofile/UserView.php">Users Profile</a>
+  <a href="../enrolment/addenrol.php">Enrollment Key</a>
 
 
 
