@@ -49,7 +49,7 @@
 
     
 	<div class="header">
-		<h2>Add Enrollment key</h2>
+		<h2>Add Enrolment key</h2>
 	</div>
 	
     <form method="post" action="addenrol.php">
