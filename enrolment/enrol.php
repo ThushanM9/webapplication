@@ -92,7 +92,7 @@ if (isset($_POST['enrol'])) {
 
 		
 		<div class="input-group">
-			<label>Enrollment key:</label>
+			<label>Enrolment key:</label>
 			<input type="password" name="cid" placeholder="Click to enter text">
 		</div>
 		<div class="input-group">
