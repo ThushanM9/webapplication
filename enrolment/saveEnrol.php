@@ -80,10 +80,10 @@
                     
             $_SESSION['message'] = "Updated Successfully!"; 
             
-        }
+        
     
-       
-          
+       header('location: addenrol.php');
+        }   
       
  $results = mysqli_query($con, "SELECT * FROM enrol");
 
