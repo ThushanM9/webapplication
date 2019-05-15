@@ -13,7 +13,7 @@
         $edit_state  = false;
 
 	// connect to database
-	$db = mysqli_connect('localhost', 'root', '', 'webapplication');
+	$db = mysqli_connect('localhost', 'root', '1234', 'webapplication');
        
         
         
@@ -52,7 +52,7 @@
       
       //delete course
       
-      $db = mysqli_connect('localhost', 'root', '', 'webapplication');
+      $db = mysqli_connect('localhost', 'root', '1234', 'webapplication');
         if (isset($_GET['del'])) {
             //var_dump($_GET['del']);die;
 	$assID = $_GET['del'];

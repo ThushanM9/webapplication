@@ -38,8 +38,8 @@ body {
 <div class="topnav">
     <a class="active" href="index.php">Home</a>
   <a href="#viewusers">View Users</a>
-  <a href="coursesPage.php">Courses</a>
-  <a href="#">Assigment</a>
+  <a href="../admin/coursesPage.php">Courses</a>
+  <a href="../Assignment/addAssignment.php">Assigment</a>
   <a href="#">Notices</a>
   <a href="../userprofile/UserView.php">Users Profile</a>
   <a href="../enrolment/addenrol.php">Enrollment Key</a>
@@ -54,7 +54,7 @@ body {
 		<!-- logged in user information -->
 		
                        
-			<p> <a href="index.php?logout='1'" style="color: red; margin-left: 38cm;">logout</a> </p>
+                <p> <a href="../member/login.php?logout='1'" style="color: red; margin-left: 38cm;">logout</a> </p>
 		
 
 </div>	
