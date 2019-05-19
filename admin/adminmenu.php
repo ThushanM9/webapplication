@@ -37,7 +37,7 @@ body {
 
 <div class="topnav">
     <a class="active" href="index.php">Home</a>
-  <a href="#viewusers">View Users</a>
+ 
   <a href="../admin/coursesPage.php">Courses</a>
   <a href="../Assignment/addAssignment.php">Assigment</a>
   <a href="#">Notices</a>
