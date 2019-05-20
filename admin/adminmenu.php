@@ -43,6 +43,7 @@ body {
   <a href="#">Notices</a>
   <a href="#">Admin Profile</a>
   <a href="../enrolment/addenrol.php">Enrolment Key</a>
+<a href="../enrolment/searchCourse.php">Search</a>
 
 
 
