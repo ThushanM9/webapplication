@@ -16,7 +16,7 @@
     </center>
         <table style="width:100%">
         <?php 
-        $mysqli = mysqli_connect("localhost","root", "root");
+        $mysqli = mysqli_connect("localhost","root", "1234");
         if (!$mysqli)
         {
             die("Cannot connect: " .mysqli_error());
